@@ -20,3 +20,5 @@ jam/
 .git-ref
 npm-debug.log
 deps/
+
+build
